@@ -3,7 +3,7 @@ export const SITE = {
   author: 'Polandeme',
   description: '',
   keywords: 'polandeme,Weekly,Blog,后端,架构设计,人工智能,创业',
-  icon: './public/assets/up-logo.png',
+  icon: 'https://hcc1010-1252625131.cos.ap-beijing.myqcloud.com/up-logo.png',
   // pic: 'https://cdn.fliggy.com/upic/2XFNGI.png',
   homePage: 'https://hcc1010.com',
   blogPage: 'https://hcc1010.com',
