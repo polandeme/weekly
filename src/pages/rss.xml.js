@@ -22,7 +22,7 @@ export const get = () =>
       const url = item.url;
       const oldTitle = url.split('/posts/')[1];
       const title =
-        '第' + oldTitle.split('-')[0] + '期 - ' + oldTitle.split('-')[1];
+        oldTitle.split('-')[0] + ' - ' + oldTitle.split('-')[1];
       return {
         link: url,
         title,
