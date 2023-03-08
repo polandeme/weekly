@@ -127,6 +127,8 @@ a,
   margin-block-start: 1.8em;
   margin-block-end: 1.8em;
   text-align: left;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
 
 .heti p[align='center'] {
